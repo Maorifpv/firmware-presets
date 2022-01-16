@@ -128,6 +128,7 @@
       "Joshua Bardwell",
       "Justice - Gary Kent",
       "Jye Smith",
+      "MaoriFpv",
       "Mark Spatz (UAV Tech)",
       "MinChan Kim",
       "NemesisXB",
@@ -234,6 +235,7 @@
       "logging",
       "longrange",
       "mamba",
+      "MaoriFpv",
       "meteor",
       "MinChan",
       "mode",
@@ -1367,15 +1369,10 @@
       ]
     },
     {
-      "fullPath": "presets/4.3/rates/MaoriFpv_Freestyke.txt",
-      "hash": "fe0db350b5775b7b2ceaf54ce51ddaef1b3f813e707e09c127943bc07c1d1f92",
-      "options": [
-        {
-          "name": "Actual rates analogue",
-          "checked": false
-        }
-      ],
-      "title": "Joshua Bardwell rates",
+      "fullPath": "presets/4.3/rates/MaoriFpv_Freestyle.txt",
+      "hash": "1bcb98c86b9ab4fc91a78d8ee4a0eb7a461796b998f3aeb5cd9908a6a949acc4",
+      "options": [],
+      "title": "MaoriFpv",
       "firmware_version": [
         "4.3"
       ],
@@ -1383,19 +1380,16 @@
       "status": "COMMUNITY",
       "keywords": [
         "youtube",
-        "bardwell",
+        "MaoriFpv",
         "freestyle"
       ],
-      "author": "Joshua Bardwell",
+      "author": "MaoriFpv",
       "description": [
-        "Freestyle rates with 907 deg/sec for roll/pitch and 800 deg/sec for yaw. Relatively smooth around the sticks middle.",
-        "I am Joshua Bardwell and you gonna learn something today!",
-        "Joshua Bardwell - one of the most famous YouTubers in FPV. From thorough gear reviews, to tons of videos about drone building and tuning, his videos have helped get many pilots into the air. People love him for his ability to give simple explanations for difficult and technical issues in FPV."
+        "Freestyle rates with: Roll 750 deg/sec, Pitch 900 deg/sec and 650 deg/sec on yaw",
+        "You try it, you buy it =)",
+        "Youtube channel: https://www.youtube.com/channel/UC3r24hvS9jsgSiQJvzplfMQ"
       ],
-      "discussion": "https://github.com/betaflight/firmware-presets/pull/94",
-      "include": [
-        "presets/4.3/rates/defaults.txt"
-      ]
+      "discussion": "https://github.com/betaflight/firmware-presets/pull/94"
     },
     {
       "fullPath": "presets/4.3/rates/MinChan.txt",
